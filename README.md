@@ -91,9 +91,9 @@ The internship focused on building a strong practical foundation in **cybersecur
 ## 📁 Repository Contents
 
 ```
-├── Internship_Report_Aaditya_Nath_Sharma.docx   # Full internship report (AICTE/IILM format)
-├── Certificate_of_Internship.png                # Completion certificate
-├── Internship_Offer_Letter.png                  # Offer letter
+├── Internship_Report_Aaditya-Nath-Sharma.pdf    # Full internship report 
+├── Certificate-Ethical Hacking Internship...    # Completion certificate
+├── PPT-Ethical Hacking Internship...            # PPT
 └── README.md                                    # This file
 ```
 
